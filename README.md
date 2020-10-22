@@ -34,11 +34,16 @@ The universities below are listed in alphabetical order.
 * Term length: 10-week quarter
 * Class size: ~75 students
 
+#### Barnard College
+* Term length: 7-week immersive semester
+* Class size: ~40 students
+
 | Course, Term, Instructor | Course website   | Assignments repo 
 |-------------------|-----------------|-----------------|
 | INT 5, Fall 2018, Y. Kharitonova | Moodle | https://github.com/ucsb-int5/int5-f18-notebooks |
 | INT 5, Fall 2019, Y. Kharitonova | https://ucsb-int5.github.io/f19/ | https://github.com/ucsb-int5/int5-f19-notebooks |
 | CS 90DA, Fall 2020, Y. Kharitonova | https://ucsb-ds.github.io/ds1-f20/ | https://github.com/ucsb-ds/ds1-f20-content |
+| BC COMS 1016 (Intro to Computational Thinking & Data Science), Fall B 2020, A. Poliak | https://coms1016.barnard.edu | https://github.com/BC-COMS-1016/materials-f20/ |
 
 
 -------
