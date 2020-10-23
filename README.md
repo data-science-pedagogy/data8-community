@@ -27,7 +27,7 @@ The universities below are listed in **alphabetical order**.
 #### Barnard College
 * Term length: 7-week immersive semester
 * Class size: ~40 students
-* Instructor: Adam Poliak
+* Instructor: Adam Poliak <a href="https://github.com/azpoliak" target="_blank"><img alt="GitHub profile" src="https://badgen.net/badge/github/azpoliak/1DA1F2?icon&label" /></a>
 
 #### University of California, Berkeley
 
@@ -39,13 +39,13 @@ The universities below are listed in **alphabetical order**.
 #### University of California, Santa Barbara (UCSB)
 * Term length: 10-week quarter
 * Class size: ~75 students
-* Instructor: Yekaterina Kharitonova
-
+* Instructor: Yekaterina Kharitonova  <a href="https://github.com/ykharitonova" target="_blank"><img alt="GitHub profile" src="https://badgen.net/badge/github/ykharitonova/1DA1F2?icon&label" /></a>
+            
 #### University of California, San Diego (UCSD)
 
 * Term length: 10-week quarter
 * Class size: 100+ students
-* Instructor: Aaron Fraenkel
+* Instructor: Aaron Fraenkel <a href="https://github.com/afraenkel" target="_blank"><img alt="GitHub profile" src="https://badgen.net/badge/github/afraenkel/1DA1F2?icon&label" /></a>
 
 Starting 2020, the course no longer uses the `datascience` module:
 * Current course website: <https://dsc10.com>
@@ -55,7 +55,7 @@ Starting 2020, the course no longer uses the `datascience` module:
   
 -----
 
-| University | Course | Course website   | Assignments repo |
+| School | Course | Course website   | Assignments repo |
 |------------|--------------------------|------------------|------------------|
 | Barnard | BC COMS 1016 (Intro to Computational Thinking & Data Science), Fall B 2020 | https://coms1016.barnard.edu | https://github.com/BC-COMS-1016/materials-f20/ |
 | UCSD | DSC 10 | <https://dsc10.com> | Course materials for different offerings: [UCSD GitHub Org](https://github.com/ucsd-ets/?q=dsc10-) |
