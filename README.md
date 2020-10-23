@@ -58,9 +58,6 @@ Starting 2020, the course no longer uses the `datascience` module:
 | CS 90DA, Fall 2020, Y. Kharitonova | https://ucsb-ds.github.io/ds1-f20/ | https://github.com/ucsb-ds/ds1-f20-content |
 | BC COMS 1016 (Intro to Computational Thinking & Data Science), Fall B 2020, A. Poliak | https://coms1016.barnard.edu | https://github.com/BC-COMS-1016/materials-f20/ |
 
-####
-
-
 -------
 
 ### Questions? 
