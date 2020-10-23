@@ -34,6 +34,19 @@ The universities below are listed in alphabetical order.
 * Term length: 10-week quarter
 * Class size: ~75 students
 
+#### University of California, San Diego (UCSD)
+
+* Term length: 10-week quarter
+* Class size: 100+ students
+* Course materials for different offerings: [UCSD GitHub Org](https://github.com/ucsd-ets/?q=dsc10-)
+
+Starting 2020, the course no longer uses the `datascience` module:
+* Current course website: https:dsc10.com
+* `babypandas` python module:
+  https://github.com/babypandas-dev/babypandas
+* [Dive Into Data Science](https://eldridgejm.github.io/dive_into_data_science/front.html) (Textbook; in progress).
+  
+
 #### Barnard College
 * Term length: 7-week immersive semester
 * Class size: ~40 students
@@ -44,7 +57,6 @@ The universities below are listed in alphabetical order.
 | INT 5, Fall 2019, Y. Kharitonova | https://ucsb-int5.github.io/f19/ | https://github.com/ucsb-int5/int5-f19-notebooks |
 | CS 90DA, Fall 2020, Y. Kharitonova | https://ucsb-ds.github.io/ds1-f20/ | https://github.com/ucsb-ds/ds1-f20-content |
 | BC COMS 1016 (Intro to Computational Thinking & Data Science), Fall B 2020, A. Poliak | https://coms1016.barnard.edu | https://github.com/BC-COMS-1016/materials-f20/ |
-
 
 -------
 
