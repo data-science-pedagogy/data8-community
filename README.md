@@ -29,7 +29,8 @@ The universities below are listed in **alphabetical order**.
 
 * Term length: 15-week semester
 * Class size: 20 student cap
-* Instructor: Thao-Nhi Luu <a href="https://github.com/thaonhi20" target="_blank">
+* Instructor: Thao-Nhi Luu <a href="https://github.com/thaonhi20" target="_blank"><img alt="GitHub profile" src="https://badgen.net/badge/github/thaonhi20/1DA1F2?icon&label" /></a>
+
 
 #### Barnard College
 * Term length: 7-week immersive semester
