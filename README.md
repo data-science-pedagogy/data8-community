@@ -65,6 +65,7 @@ Starting 2020, the course no longer uses the `datascience` module:
 
 | School | Course | Course website   | Assignments repo |
 |------------|--------------------------|------------------|------------------|
+| AACC | MAT 285, Spring and Fall 2021 | Canvas | https://github.com/thaonhi20/AACC-MAT285-updates |
 | Barnard | BC COMS 1016 (Intro to Computational Thinking & Data Science), Fall B 2020 | https://coms1016.barnard.edu | https://github.com/BC-COMS-1016/materials-f20/ |
 | UCSD | DSC 10 | <https://dsc10.com> | Course materials for different offerings: [UCSD GitHub Org](https://github.com/ucsd-ets/?q=dsc10-) |
 | UCSB | INT 5, Fall 2018 | Moodle | https://github.com/ucsb-int5/int5-f18-notebooks |
