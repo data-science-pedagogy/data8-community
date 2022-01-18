@@ -24,6 +24,13 @@ _(if working from a browser) log into your account and click on the pencil icon 
 
 The universities below are listed in **alphabetical order**. 
 
+
+#### Anne Arundel Community College (AACC)
+
+* Term length: 15-week semester
+* Class size: 20 student cap
+* Instructor: Thao-Nhi Luu <a href="https://github.com/thaonhi20" target="_blank">
+
 #### Barnard College
 * Term length: 7-week immersive semester
 * Class size: ~40 students
